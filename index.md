@@ -258,8 +258,8 @@ Given the scarcity of Code-Switching (CS) datasets, most researchers synthesize 
 						<th style="text-align: center">w/o UP</th>
 						<th style="text-align: center">w/o UP and w PP</th>
 						<th style="text-align: center">w/o LT</th>
-                                                <th style="text-align: center">w/o LT and UP</th>
                                                    <th style="text-align: center">w/o DBP and w TBP</th>
+                                                <th style="text-align: center">w/o LT and UP</th>
                                                  <th style="text-align: center">YourTTS</th>
 		</tr>
 	</thead>
@@ -269,8 +269,8 @@ Given the scarcity of Code-Switching (CS) datasets, most researchers synthesize 
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/xiao/xiaorong_unitdiff_no_UP_01.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/xiao/xiaorong_unitdiff_no_UP_w_PP_01.wav" type="audio/wav"></audio></td>
 	     <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/xiao/xiaorong_unitdiff_no_LT_01.wav" type="audio/wav"></audio></td>
+	    <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/xiao/xiaorong_unitdiff_TBP_01.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/xiao/xiaorong_unitdiff_no_LT_UP_01.wav" type="audio/wav"></audio></td>
-             <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/xiao/xiaorong_unitdiff_TBP_01.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/xiao/xiaorong_yourtts_01.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
@@ -284,8 +284,8 @@ Given the scarcity of Code-Switching (CS) datasets, most researchers synthesize 
 						<th style="text-align: center">w/o UP</th>
 						<th style="text-align: center">w/o UP and w PP</th>
 						<th style="text-align: center">w/o LT</th>
+						    <th style="text-align: center">w/o DBP and w TBP</th>
                                                 <th style="text-align: center">w/o LT and UP</th>
-                                                <th style="text-align: center">w/o DBP and w TBP</th>
                                                  <th style="text-align: center">YourTTS</th>
 		</tr>
 	</thead>
@@ -295,8 +295,8 @@ Given the scarcity of Code-Switching (CS) datasets, most researchers synthesize 
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/xiao/xiaorong_unitdiff_no_UP_02.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/xiao/xiaorong_unitdiff_no_UP_w_PP_02.wav" type="audio/wav"></audio></td>
            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/xiao/xiaorong_unitdiff_no_LT_02.wav" type="audio/wav"></audio></td>
+                          <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/xiao/xiaorong_unitdiff_TBP_02.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/xiao/xiaorong_unitdiff_no_LT_UP_02.wav" type="audio/wav"></audio></td>
-               <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/xiao/xiaorong_unitdiff_TBP_02.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/xiao/xiaorong_yourtts_02.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
